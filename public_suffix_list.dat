@@ -12391,6 +12391,11 @@ cdn.amba.host
 fn.amba.host
 go.amba.host
 
+// Amp : https://ampcode.com/
+// Submitted by Will Dollman <security@ampcode.com>
+*.ampportals.app
+onamp.dev
+
 // Anomaly : https://opencode.ai
 // Submitted by Dax Raad <security@anoma.ly>
 opentunnel.xyz
